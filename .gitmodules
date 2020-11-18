@@ -1,0 +1,8 @@
+[submodule "ansible-role-common"]
+	path = ansible-role-common
+	url = git@github.com:torbsch/ansible-role-common.git
+	branch = master
+[submodule "ansible-role-desktop"]
+	path = ansible-role-desktop
+	url = git@github.com:torbsch/ansible-role-desktop.git
+	branch = master
