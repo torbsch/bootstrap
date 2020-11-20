@@ -6,6 +6,7 @@ Repository with bootstrap scripts/ansible playbooks/roles for Linux/Windows Host
 * ansible
 
 ## Example Playbook for Linux workstations (bootstrap-linux.yml)
+``` ansible
 - hosts: localhost
   gather_facts: yes
   connection: local
